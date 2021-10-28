@@ -1,5 +1,5 @@
 ### Hello, I am Kirtan Chandak! 👋
-- 🔭 I’m currently working on HTML,CSS and Javascript.
+- 🔭 I’m currently working on HTML, CSS and Javascript.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on content creation work!
 - 🤔 I’m looking for help with ...
