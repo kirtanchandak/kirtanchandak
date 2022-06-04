@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **HTML,CSS and Javascript**
 
-- 🌱 I’m currently learning **Tailwind CSS**
+- 🌱 I’m currently learning **Backend Devlopment**
 
-- 👯 I’m looking to collaborate on **content creation projects**
+- 👯 I’m looking to collaborate on **Devlopment Projects**
 
 - 📫 How to reach me **kirtanmchandak5@gmail.com**
 - 🚧 My latest project - [Click here](https://gamememe.netlify.app/) 
