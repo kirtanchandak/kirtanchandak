@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirtan Chandak</h1>
 <h3 align="center">Front-End-Developer | Content creator and curator</h3>
 
-- 🔭 I’m currently working on **HTML,CSS and Javascript**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 🌱 I’m currently learning **Backend Devlopment**
 
