@@ -1,24 +1,38 @@
-<h1 align="center">Hi 👋, I'm Kirtan Chandak</h1>
-<h3 align="center">Front-End-Developer | Content creator and curator</h3>
+### Hi, I am Kirtan! Great to see you here! 👋 
 
-- 🔭 I’m currently working on **MERN Stack**
+## About Me 🚀
+🎓 I’m an JavaScript Developer pursuing B.Tech. at Pune Univesity in Computer Engineering (2025).</br>
+👨‍💻 I am passionate about Web Development and OpenSource & I enjoy building new things.<br>
+🌱 I’m currently improving my grip on Data Structures and Algorithms.<br>
+🙋‍♂️ You can connect with me on -
 
-- 🌱 I’m currently learning **Backend Devlopment**
 
-- 👯 I’m looking to collaborate on **Devlopment Projects**
+[![Twitter Badge](https://img.shields.io/badge/-kirtanchandak-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/kaiwalyakoparkar/)](https://www.twitter.com/chandak_kirtan/)
+[![Gmail Badge](https://img.shields.io/badge/-kirtanmchandak5@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kirtanmchandak5@gmail.com)](mailto:kirtanmchandak5@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-kirtanchandak-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kirtanchandak/)](https://www.linkedin.com/in/kirtan-chandak-65736b159/)
+[![Youtube Badge](https://img.shields.io/badge/-Kirtan%20Chandak-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZow8pOHiyz26yl4Da-Mfzw)](https://www.youtube.com/channel/UCd9I-SWP6ycLi5K_5sr4Xeg)
 
-- 📫 How to reach me **kirtanmchandak5@gmail.com**
-- 🚧 My latest project - [Click here](https://brahaman.netlify.app/) 
+## ⚡ Technologies
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/chandak_kirtan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandak_kirtan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kirtan-chandak-65736b159/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirtan-chandak-65736b159" height="30" width="40" /></a>
-<a href="https://instagram.com/kirtanchandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kirtanchandak" height="30" width="40" /></a>
-<a href="https://www.behance.net/kirtanchandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="kirtanchandak" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCd9I-SWP6ycLi5K_5sr4Xeg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kirtan chandak" height="30" width="40" /></a>
+### Languages:
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Libraries and Frameworks:
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+## 📈 Stats:
+<p>
+  <img width="54%" src="https://github-readme-stats.vercel.app/api?username=kirtanchandak&show_icons=true&theme=tokyonight" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirtanchandak&show_icons=true&theme=tokyonight&locale=en&layout=compact&langs_count=7" /></br>
+  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank">  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="tailwind" width="40" height="40"/> </a> </p>
 
