@@ -1,6 +1,6 @@
 ### Hi, I am Kirtan! Great to see you here! 👋 
 
-## About Me 🚀
+## 🚀 About Me 
 🎓 I’m an JavaScript Developer pursuing B.Tech. at Pune Univesity in Computer Engineering (2025).</br>
 👨‍💻 I am passionate about Web Development and OpenSource & I enjoy building new things.<br>
 🌱 I’m currently improving my grip on Data Structures and Algorithms.<br>
